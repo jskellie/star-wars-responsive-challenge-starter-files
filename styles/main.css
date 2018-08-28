@@ -1,0 +1,16 @@
+header {
+	margin-bottom: 40px;
+	background-color: orange;
+}
+header h1 {
+	margin-bottom: 0;
+}
+.sw-image {
+	width: 100%;
+}
+.card{
+	margin-bottom: 20px;
+}
+.content{
+	padding: 20px;
+}
